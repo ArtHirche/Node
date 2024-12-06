@@ -6,7 +6,7 @@ Curso apresentado por:
 
 - Juliana Amoasei
 
-## Bibliotecas oara instalar
+## Bibliotecas para instalar
 - Chalk:
   ```npm install chalk```
 - Commander:
